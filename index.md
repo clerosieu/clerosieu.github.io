@@ -10,17 +10,17 @@ PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu
 
 
 ## Georg Nüßlein CSU
-660.000 Provision mit Masken [3](https://www.spiegel.de/politik/deutschland/georg-nuesslein-csu-politiker-soll-von-hessischem-lieferanten-bestochen-worden-sein-a-4f7a49ca-beb1-40f1-b4a8-3376e9c6d559)
+660.000€ Provision mit Masken [3](https://www.spiegel.de/politik/deutschland/georg-nuesslein-csu-politiker-soll-von-hessischem-lieferanten-bestochen-worden-sein-a-4f7a49ca-beb1-40f1-b4a8-3376e9c6d559)
 
 
 ## Nikolas Löbel CDU
-250.000 Provision mit Masken [4](https://www.spiegel.de/politik/deutschland/corona-masken-cdu-hinterbaenkler-kassierte-250-000-euro-provision-a-a5e31c3d-0002-0001-0000-000176138620)
+250.000€ Provision mit Masken [4](https://www.spiegel.de/politik/deutschland/corona-masken-cdu-hinterbaenkler-kassierte-250-000-euro-provision-a-a5e31c3d-0002-0001-0000-000176138620)
 
 "Lobbying" für Azerbaijan [5](https://web.archive.org/web/20210228032550/https://www.nikolas-loebel.de/reisebericht-meine-reise-nach-aserbaidschan/)
 
 
 ## Mark Hauptmann CDU
-7.000 Spende für Maskendeal [6](https://www.spiegel.de/politik/deutschland/unions-korruptionsaffaere-generalstaatsanwaltschaft-thueringen-prueft-ermittlungen-gegen-cdu-politiker-mark-hauptmann-a-c0783fc7-e39c-4048-8a9e-9665ba24db59)
+7.000€ Spende für Maskendeal [6](https://www.spiegel.de/politik/deutschland/unions-korruptionsaffaere-generalstaatsanwaltschaft-thueringen-prueft-ermittlungen-gegen-cdu-politiker-mark-hauptmann-a-c0783fc7-e39c-4048-8a9e-9665ba24db59)
 
 "Lobbying" für Azerbaijan [7](https://www.spiegel.de/politik/deutschland/weiterer-cdu-politiker-wegen-aserbaidschan-geld-unter-verdacht-a-c2f14351-056b-42ad-bce0-0c15dcc763d2)
 
@@ -38,5 +38,5 @@ PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu
 
 
 ## Karl Straub CSU
-Ermittlungen wegen Verdacht der Steuerhinterziehung [10](https://correctiv.org/aktuelles/wirtschaft/2021/03/19/muenchner-justiz-ermittelt-gegen-csu-landtagsabgeordneten/)
+Ermittlungen wegen des Verdachts der Steuerhinterziehung [10](https://correctiv.org/aktuelles/wirtschaft/2021/03/19/muenchner-justiz-ermittelt-gegen-csu-landtagsabgeordneten/)
 
