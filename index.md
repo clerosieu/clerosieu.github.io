@@ -14,10 +14,8 @@ PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu
 
 
 ## Nikolas Löbel CDU
-```diff
-+ Zurückgetreten
-```
 250.000€ Provision mit Masken [4](https://www.spiegel.de/politik/deutschland/corona-masken-cdu-hinterbaenkler-kassierte-250-000-euro-provision-a-a5e31c3d-0002-0001-0000-000176138620)
+
 "Lobbying" für Azerbaijan [5](https://web.archive.org/web/20210228032550/https://www.nikolas-loebel.de/reisebericht-meine-reise-nach-aserbaidschan/)
 
 
@@ -42,3 +40,5 @@ PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu
 ## Karl Straub CSU
 Verdacht der Steuerhinterziehung [10](https://correctiv.org/aktuelles/wirtschaft/2021/03/19/muenchner-justiz-ermittelt-gegen-csu-landtagsabgeordneten/)
 
+
+Stand: 2021-03-20 00:25
