@@ -44,4 +44,4 @@ Verdacht der Steuerhinterziehung [10](https://correctiv.org/aktuelles/wirtschaft
 Shady Immobiliengeschäfte [11](https://twitter.com/Schmidtlepp/status/1372803314627190790/photo/1)
 
 
-Stand: 2021-03-20 00:25
+    Stand: 2021-03-20 00:25
