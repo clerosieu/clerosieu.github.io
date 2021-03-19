@@ -1,4 +1,4 @@
-# Einzelfall.CDU
+# Einzelfall
 
 ## Tobias Zech CSU
 PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu-abgeordneter-tobias-zech-tritt-zurueck-a-515b7e08-81ef-442f-8634-7442523ebeac)
