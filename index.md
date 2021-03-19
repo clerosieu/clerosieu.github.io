@@ -1,4 +1,5 @@
-# Einzelfall
+# Clan-Kriminalität
+In Deutschland hat Clan-Kriminalität Tradition. Nachfolgend eine unvollständige Liste der bekanntesten Mitglieder eines der größten Clans. Ergänzungen können gerne [auf Github](https://github.com/clerosieu/clerosieu.github.io) eingereicht werden.
 
 ## Tobias Zech CSU
 PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu-abgeordneter-tobias-zech-tritt-zurueck-a-515b7e08-81ef-442f-8634-7442523ebeac)
