@@ -40,5 +40,8 @@ PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu
 ## Karl Straub CSU
 Verdacht der Steuerhinterziehung [10](https://correctiv.org/aktuelles/wirtschaft/2021/03/19/muenchner-justiz-ermittelt-gegen-csu-landtagsabgeordneten/)
 
+## Jens Spahn CDU
+Shady Immobiliengeschäfte [11](https://twitter.com/Schmidtlepp/status/1372803314627190790/photo/1)
+
 
 Stand: 2021-03-20 00:25
