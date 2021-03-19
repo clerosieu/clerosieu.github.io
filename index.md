@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Einzelfall.CDU
 
-You can use the [editor on GitHub](https://github.com/clerosieu/clerosieu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Tobias Zech CSU
+PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu-abgeordneter-tobias-zech-tritt-zurueck-a-515b7e08-81ef-442f-8634-7442523ebeac)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Alfred Sauter CSU
+1.200.000€ Provision mit Masken [2](https://www.augsburger-allgemeine.de/bayern/Ex-Justizminister-Sauter-soll-1-2-Millionen-Euro-ueber-Treuhandfirma-bezogen-haben-id59334981.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Georg Nüßlein CSU
+660.000 Provision mit Masken [3](https://www.spiegel.de/politik/deutschland/georg-nuesslein-csu-politiker-soll-von-hessischem-lieferanten-bestochen-worden-sein-a-4f7a49ca-beb1-40f1-b4a8-3376e9c6d559)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Nikolas Löbel CDU
+250.000 Provision mit Masken [4](https://www.spiegel.de/politik/deutschland/corona-masken-cdu-hinterbaenkler-kassierte-250-000-euro-provision-a-a5e31c3d-0002-0001-0000-000176138620)
 
-1. Numbered
-2. List
+"Lobbying" für Azerbaijan [5](https://web.archive.org/web/20210228032550/https://www.nikolas-loebel.de/reisebericht-meine-reise-nach-aserbaidschan/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Mark Hauptmann CDU
+7.000 Spende für Maskendeal [6](https://www.spiegel.de/politik/deutschland/unions-korruptionsaffaere-generalstaatsanwaltschaft-thueringen-prueft-ermittlungen-gegen-cdu-politiker-mark-hauptmann-a-c0783fc7-e39c-4048-8a9e-9665ba24db59)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"Lobbying" für Azerbaijan [7](https://www.spiegel.de/politik/deutschland/weiterer-cdu-politiker-wegen-aserbaidschan-geld-unter-verdacht-a-c2f14351-056b-42ad-bce0-0c15dcc763d2)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clerosieu/clerosieu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Axel Fischer CDU
+"Lobbying" für Azerbaijan [8](https://www.spiegel.de/politik/deutschland/axel-fischer-cdu-abgeordneter-soll-wegen-aserbaidschan-affaere-ausschussvorsitz-abgeben-a-1e686d1a-4009-462c-9af1-38396c996db5)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Karin Strenz CDU
+"Lobbying" für Azerbaijan [9](https://www.spiegel.de/politik/deutschland/aserbaidschan-affaere-razzien-gegen-unionspolitiker-strenz-und-lintner-a-21620f9e-93d7-4f29-9b68-476522e3af6b)
+
+
+## Eduard Lintner CSU
+"Lobbying" für Azerbaijan [9](https://www.spiegel.de/politik/deutschland/aserbaidschan-affaere-razzien-gegen-unionspolitiker-strenz-und-lintner-a-21620f9e-93d7-4f29-9b68-476522e3af6b)
+
