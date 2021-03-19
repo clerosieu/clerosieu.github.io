@@ -35,3 +35,7 @@ PR-Arbeit für Nordmazedonien [1](https://www.spiegel.de/politik/deutschland/csu
 ## Eduard Lintner CSU
 "Lobbying" für Azerbaijan [9](https://www.spiegel.de/politik/deutschland/aserbaidschan-affaere-razzien-gegen-unionspolitiker-strenz-und-lintner-a-21620f9e-93d7-4f29-9b68-476522e3af6b)
 
+
+## Karl Straub CSU
+Ermittlungen wegen Verdacht der Steuerhinterziehung [10](https://correctiv.org/aktuelles/wirtschaft/2021/03/19/muenchner-justiz-ermittelt-gegen-csu-landtagsabgeordneten/)
+
