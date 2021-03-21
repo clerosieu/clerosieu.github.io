@@ -79,6 +79,10 @@ Verdacht der Steuerhinterziehung [link](https://correctiv.org/aktuelles/wirtscha
 ### Jens Spahn CDU
 Shady Immobiliengeschäfte [link](https://twitter.com/Schmidtlepp/status/1372803314627190790/photo/1)
 
+Spenden-Dinner [link](https://www.tagesspiegel.de/politik/geselliges-abendessen-mitten-in-der-pandemie-umstrittenes-spenden-dinner-spahn-muss-jetzt-namen-nennen/26993552.html)
+
+Masken ohne Ausschreibung [link](https://www.freitag.de/autoren/wolfgang-michal/jens-spahn-geniesst-das)
+
 
 ### Joachim Pfeiffer CDU
 Shady Beratungsfirmen [link](https://www.rnd.de/politik/lobby-verstrickungen-der-union-spd-sagt-verhandlungen-uber-erneuerbare-energien-gesetz-ab-NPWCWPWCR5HAJKGJYOB7B4JKTI.html)
