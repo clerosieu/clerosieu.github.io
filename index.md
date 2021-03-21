@@ -1,5 +1,5 @@
 # Clan-Kriminalität
-In Deutschland hat Clan-Kriminalität Tradition. Nachfolgend eine unvollständige Liste der bekanntesten Mitglieder eines der größten Clans. Ergänzungen können gerne [auf Github](https://github.com/clerosieu/clerosieu.github.io) eingereicht werden.
+In Deutschland hat Clan-Kriminalität Tradition. Nachfolgend eine unvollständige Liste der bekanntesten Einzelfälle. Ergänzungen können gerne [auf Github](https://github.com/clerosieu/clerosieu.github.io) eingereicht werden.
 
 ## 2020
 
