@@ -102,4 +102,4 @@ Involviert in Nüßlein-Maskendeal [link](https://twitter.com/reportmuenchen/sta
 Geschäfte mit öffentlichen Aufträgen [link](https://www.t-online.de/nachrichten/deutschland/parteien/id_89587804/nebentaetigkeit-csu-politiker-kuffer-macht-geschaefte-mit-oeffentlichen-auftraegen.html)
 
 
-    Stand: 2021-03-20 00:25
+    Stand: 2021-03-21 16:25
