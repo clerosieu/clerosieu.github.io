@@ -84,6 +84,10 @@ Spenden-Dinner [link](https://www.tagesspiegel.de/politik/geselliges-abendessen-
 Masken ohne Ausschreibung [link](https://www.freitag.de/autoren/wolfgang-michal/jens-spahn-geniesst-das)
 
 
+### Fritz Güntzler (CDU)
+Involviert in Nüßlein-Maskendeal [link](https://twitter.com/a_watch/status/1367793145757458436)
+
+
 ### Joachim Pfeiffer CDU
 Shady Beratungsfirmen [link](https://www.rnd.de/politik/lobby-verstrickungen-der-union-spd-sagt-verhandlungen-uber-erneuerbare-energien-gesetz-ab-NPWCWPWCR5HAJKGJYOB7B4JKTI.html)
 
