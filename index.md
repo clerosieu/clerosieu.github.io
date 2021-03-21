@@ -92,4 +92,8 @@ Involviert in Nüßlein-Maskendeal [link](https://twitter.com/a_watch/status/136
 Shady Beratungsfirmen [link](https://www.rnd.de/politik/lobby-verstrickungen-der-union-spd-sagt-verhandlungen-uber-erneuerbare-energien-gesetz-ab-NPWCWPWCR5HAJKGJYOB7B4JKTI.html)
 
 
+### Wirtschaftsministerium MVP (CDU)
+Involviert in Nüßlein-Maskendeal [link](https://twitter.com/reportmuenchen/status/1371936227738447877)
+
+
     Stand: 2021-03-20 00:25
