@@ -14,6 +14,9 @@ Lobbyismus für Wirecard [link](https://www.tagesschau.de/wirtschaft/unternehmen
 
 Verstrickungen mit Augustus Intelligence [link](https://www.tagesschau.de/ausland/amthor-augustus-intelligence-101.html)
 
+### Hans-Georg Maaßen (CDU)
+Verstrickungen mit Augustus Intelligence [link](https://www.tagesschau.de/ausland/amthor-augustus-intelligence-101.html)
+
 
 ## 2021
 
