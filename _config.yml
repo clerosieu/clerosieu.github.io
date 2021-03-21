@@ -1,1 +1,14 @@
 theme: jekyll-theme-dinky
+
+{
+
+    
+    "api_url": "https://api.github.com",
+    "environment": "dotcom",
+    "project_title": "Clan-Kriminalität",
+    "project_tagline": "Die lange Tradition der Einzelfälle in CDU und CSU.",
+    "owner_url": "https://github.com/clerosieu",
+    "repository_url": "https://github.com/clerosieu/clerosieu.github.io/",
+    "repository_name": "Clan-Kriminalität",
+    "url": "https://www.clan-kriminalität.de/", // (or the CNAME)
+}
