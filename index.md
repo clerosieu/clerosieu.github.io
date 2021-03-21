@@ -4,7 +4,7 @@ In Deutschland hat Clan-Kriminalität Tradition. Nachfolgend eine unvollständig
 ## 2020
 
 ### Philip Amthor (CDU)
-Verstrickungen mit Augustus Intelligence[link](https://www.tagesschau.de/ausland/amthor-augustus-intelligence-101.html)
+Verstrickungen mit Augustus Intelligence [link](https://www.tagesschau.de/ausland/amthor-augustus-intelligence-101.html)
 
 ### Armin Laschet (CDU)
 Maskendeal durch Vetternwirtschaft [link](https://www.fr.de/politik/armin-laschet-van-laack-sohn-joe-millionen-masken-deal-nrw-luxus-label-affaere-skandal-90118714.html)
@@ -12,7 +12,7 @@ Maskendeal durch Vetternwirtschaft [link](https://www.fr.de/politik/armin-lasche
 ### Karl-Theodor zu Guttenberg (CSU)
 Lobbyismus für Wirecard [link](https://www.tagesschau.de/wirtschaft/unternehmen/wirecard-zu-guttenberg-lobbyismus-101.html)
 
-Verstrickungen mit Augustus Intelligence[link](https://www.tagesschau.de/ausland/amthor-augustus-intelligence-101.html)
+Verstrickungen mit Augustus Intelligence [link](https://www.tagesschau.de/ausland/amthor-augustus-intelligence-101.html)
 
 
 ## 2021
