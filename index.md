@@ -1,5 +1,5 @@
 # Clan-Kriminalität
-In Deutschland hat Clan-Kriminalität Tradition. Nachfolgend eine unvollständige Liste der bekanntesten Einzelfälle. Ergänzungen können gerne [auf Github](https://github.com/clerosieu/clerosieu.github.io) eingereicht werden.
+In Deutschland hat Clan-Kriminalität Tradition. Nachfolgend eine unvollständige Liste der bekanntesten Einzelfälle. Ergänzungen können gerne [auf Github](https://github.com/clerosieu/clerosieu.github.io) eingereicht werden. Jahresangaben beziehen sich auf den Zeitpunkt der erstmaligen Berichterstattung.
 
 ## 2019
 
