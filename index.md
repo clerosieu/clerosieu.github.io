@@ -20,6 +20,10 @@ Verstrickungen mit Augustus Intelligence [link](https://www.tagesschau.de/auslan
 
 ## 2021
 
+### Thomas Bareiß (CDU)
+Beatmungsgeräte für Azerbaijan [link](https://www.faz.net/aktuell/politik/inland/staatssekretaer-bareiss-wandte-sich-fuer-aserbaidschan-an-firma-17240769.html)
+
+
 ### Tobias Zech CSU
 PR-Arbeit für Nordmazedonien [link](https://www.spiegel.de/politik/deutschland/csu-abgeordneter-tobias-zech-tritt-zurueck-a-515b7e08-81ef-442f-8634-7442523ebeac)
 
