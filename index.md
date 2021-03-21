@@ -43,5 +43,8 @@ Verdacht der Steuerhinterziehung [10](https://correctiv.org/aktuelles/wirtschaft
 ## Jens Spahn CDU
 Shady Immobiliengeschäfte [11](https://twitter.com/Schmidtlepp/status/1372803314627190790/photo/1)
 
+## Joachim Pfeiffer CDU
+Shady Beratungsfirmen [12](https://www.rnd.de/politik/lobby-verstrickungen-der-union-spd-sagt-verhandlungen-uber-erneuerbare-energien-gesetz-ab-NPWCWPWCR5HAJKGJYOB7B4JKTI.html)
+
 
     Stand: 2021-03-20 00:25
