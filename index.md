@@ -1,6 +1,11 @@
 # Clan-Kriminalität
 In Deutschland hat Clan-Kriminalität Tradition. Nachfolgend eine unvollständige Liste der bekanntesten Einzelfälle. Ergänzungen können gerne [auf Github](https://github.com/clerosieu/clerosieu.github.io) eingereicht werden.
 
+## 2019
+
+### Andreas Scheuer (CSU)
+Maut-Debakel [link](https://m.tagesspiegel.de/politik/maut-debakel-warum-das-vorgehen-von-verkehrsminister-scheuer-als-korruption-gelten-kann/25312724.html)
+
 ## 2020
 
 ### Philip Amthor (CDU)
