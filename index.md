@@ -87,6 +87,8 @@ Masken ohne Ausschreibung [link](https://www.freitag.de/autoren/wolfgang-michal/
 ### Fritz Güntzler (CDU)
 Involviert in Nüßlein-Maskendeal [link](https://twitter.com/a_watch/status/1367793145757458436)
 
+### Monika Hohlmeier CSU
+Vermittlung überteuerter und nicht-zertifizierter Masken [link](https://twitter.com/Engel_Re/status/1369393097126408192)
 
 ### Joachim Pfeiffer CDU
 Shady Beratungsfirmen [link](https://www.rnd.de/politik/lobby-verstrickungen-der-union-spd-sagt-verhandlungen-uber-erneuerbare-energien-gesetz-ab-NPWCWPWCR5HAJKGJYOB7B4JKTI.html)
@@ -94,6 +96,10 @@ Shady Beratungsfirmen [link](https://www.rnd.de/politik/lobby-verstrickungen-der
 
 ### Wirtschaftsministerium MVP (CDU)
 Involviert in Nüßlein-Maskendeal [link](https://twitter.com/reportmuenchen/status/1371936227738447877)
+
+
+### Michael Kuffer (CSU)
+Geschäfte mit öffentlichen Aufträgen [link](https://www.t-online.de/nachrichten/deutschland/parteien/id_89587804/nebentaetigkeit-csu-politiker-kuffer-macht-geschaefte-mit-oeffentlichen-auftraegen.html)
 
 
     Stand: 2021-03-20 00:25
