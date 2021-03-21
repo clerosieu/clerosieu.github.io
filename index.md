@@ -35,7 +35,7 @@ Shady Onlineshop für Masken [link](https://www.abgeordnetenwatch.de/blog/nebent
 ### Mark Hauptmann CDU
 7.000€ Spende für Maskendeal [link](https://www.spiegel.de/politik/deutschland/unions-korruptionsaffaere-generalstaatsanwaltschaft-thueringen-prueft-ermittlungen-gegen-cdu-politiker-mark-hauptmann-a-c0783fc7-e39c-4048-8a9e-9665ba24db59)
 
-"Lobbying" für Azerbaijan [7](https://www.spiegel.de/politik/deutschland/weiterer-cdu-politiker-wegen-aserbaidschan-geld-unter-verdacht-a-c2f14351-056b-42ad-bce0-0c15dcc763d2)
+"Lobbying" für Azerbaijan [link](https://www.spiegel.de/politik/deutschland/weiterer-cdu-politiker-wegen-aserbaidschan-geld-unter-verdacht-a-c2f14351-056b-42ad-bce0-0c15dcc763d2)
 
 
 ### Franz Rieger (CSU)
